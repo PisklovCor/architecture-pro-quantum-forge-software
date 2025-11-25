@@ -30,8 +30,8 @@ pip install -r requirements.txt
      - `YANDEX_FOLDER_ID` - ID вашего каталога в Yandex Cloud
    - Пример содержимого файла `.env/gpt_api`:
      ```
-     YANDEX_API_KEY=AQVNw8E924LqigVH07BhY1P-y2u6oc7T14sIwkZ-
-     YANDEX_FOLDER_ID=b1g48ia12aoflpj52ua4
+     YANDEX_API_KEY=your-api-key-here
+     YANDEX_FOLDER_ID=your-folder-id-here
      ```
    - Система автоматически ищет файл в следующих местах:
      - `.env/gpt_api` (в корне проекта)
